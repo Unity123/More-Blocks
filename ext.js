@@ -15,7 +15,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-          ['R', 'get external data with address %s and type %t', 'get-external-data', '', '']
+          ['R', 'get external data with address %s and type %s', 'get-external-data', '', '']
         ]
     };
 
